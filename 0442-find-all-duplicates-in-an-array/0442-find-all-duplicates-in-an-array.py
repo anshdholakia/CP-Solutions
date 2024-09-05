@@ -1,3 +1,9 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        return [n for n, v in collections.Counter(nums).items() if v==2]
+        output = []
+        for n in nums:
+            n = abs(n)
+            if nums[n-1]<0:
+                output.append(n)
+            nums[n-1]*=-1
+        return output
