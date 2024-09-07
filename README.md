@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anshdholakia/CP-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bit Manipulation
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
