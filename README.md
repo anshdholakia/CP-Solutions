@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Hash Table
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
