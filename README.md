@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anshdholakia/CP-Solutions/tree/master/0198-house-robber) |
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
+| [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
+| [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/anshdholakia/CP-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/anshdholakia/CP-Solutions/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
+| [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
