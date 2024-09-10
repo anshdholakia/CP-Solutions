@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshdholakia/CP-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/anshdholakia/CP-Solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,8 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshdholakia/CP-Solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshdholakia/CP-Solutions/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
