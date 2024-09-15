@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anshdholakia/CP-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anshdholakia/CP-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anshdholakia/CP-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anshdholakia/CP-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anshdholakia/CP-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
