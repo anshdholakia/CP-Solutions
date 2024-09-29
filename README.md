@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/anshdholakia/CP-Solutions/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshdholakia/CP-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/anshdholakia/CP-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
