@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/anshdholakia/CP-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/anshdholakia/CP-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshdholakia/CP-Solutions/tree/master/0131-palindrome-partitioning) |
