@@ -3,6 +3,8 @@ class Solution:
         result = []
         cur = []
         def backtrack(x):
+            if len(cur)>4:
+                return
             if x==len(s) and len(cur)==4:
                 result.append(".".join(cur))
                 return
