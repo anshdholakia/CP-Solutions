@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anshdholakia/CP-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anshdholakia/CP-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/anshdholakia/CP-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anshdholakia/CP-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1923-sentence-similarity-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/0539-minimum-time-difference) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anshdholakia/CP-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Ordered Set
 |  |
 | ------- |
