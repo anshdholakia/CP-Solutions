@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/anshdholakia/CP-Solutions/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/anshdholakia/CP-Solutions/tree/master/0283-move-zeroes) |
 | [0408-valid-word-abbreviation](https://github.com/anshdholakia/CP-Solutions/tree/master/0408-valid-word-abbreviation) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/anshdholakia/CP-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
