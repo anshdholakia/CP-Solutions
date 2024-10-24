@@ -1,18 +1,10 @@
 class Solution:
+    @cache
     def numDecodings(self, s: str) -> int:
-        memo = {}
-        def dfs(i):
-            if i in memo:
-                return memo[i]
-            if i==len(s):
-                return 1
-            if s[i]=='0':
-                return 0
-            if i==len(s)-1:
-                return 1
-            if 0<int(s[i:i+2])<=26:
-                memo[i]= dfs(i+1)+dfs(i+2)
-                return memo[i]
-            memo[i]= dfs(i+1)
-            return memo[i]
-        return dfs(0)
+        if not s:
+            return 1
+        if s[0]=='0':
+            return 0
+        if len(s)>1 and 10<=int(s[:2])<=26:
+            return self.numDecodings(s[1:])+self.numDecodings(s[2:])
+        return self.numDecodings(s[1:])
