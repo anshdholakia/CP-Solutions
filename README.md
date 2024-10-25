@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-maximize-distance-to-closest-person](https://github.com/anshdholakia/CP-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshdholakia/CP-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/anshdholakia/CP-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1297-maximum-number-of-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/anshdholakia/CP-Solutions/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anshdholakia/CP-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/anshdholakia/CP-Solutions/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/anshdholakia/CP-Solutions/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
