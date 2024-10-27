@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/anshdholakia/CP-Solutions/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshdholakia/CP-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
