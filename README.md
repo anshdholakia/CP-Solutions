@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
