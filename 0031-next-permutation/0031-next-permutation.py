@@ -3,27 +3,25 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        pvt=None
         for i in range(len(nums)-2, -1, -1):
             if nums[i+1]>nums[i]:
+                pvt=i
                 break
-        else:
+        if pvt==None:
             nums.reverse()
             return
-        # find the replacement
-        j=i
-        minimum = float("inf")
-        min_index=j
-        for i in range(j+1, len(nums)):
-            if nums[i]>nums[j] and minimum>nums[i]:
-                minimum=nums[i]
-                min_index=i
-        # swap
-        nums[j], nums[min_index] = nums[min_index], nums[j]
-        # do insert sort on the rest
-        for i in range(j+1, len(nums)):
-            min_val = (i, nums[i])
-            for j in range(i+1, len(nums)):
-                if min_val[1]>nums[j]:
-                    min_val = (j, nums[j])
-            nums[min_val[0]], nums[i] = nums[i], nums[min_val[0]]
+        # find the closest minimum number to swap with
+        min_idx=pvt+1
+        for i in range(pvt+1, len(nums)):
+            if nums[pvt]<nums[i]<nums[min_idx]:
+                min_idx=i
+        # swap pvt with min_idx
+        nums[pvt], nums[min_idx] = nums[min_idx], nums[pvt]
+        # put all the remaining elements in sorted order
+        rem = sorted(nums[pvt+1:])
+        for i in range(pvt+1, len(nums)):
+            nums[i]=rem[i-pvt-1]
+
+        
         
