@@ -1,16 +1,22 @@
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
-        k=[0]*len(nums)
-        left, right = min([n[0] for n in nums]), max([n[0] for n in nums])
-        minheap=[(n[0], i, 0) for i,n in enumerate(nums)]
-        heapq.heapify(minheap)
-        res_left, res_right = -float("inf"), float("inf")
+        # boil this question down to 2 lists
+        # always shift the smallest list element pointer here
+        right = -inf
+        minheap=[]
+        for i in range(len(nums)):
+            heapq.heappush(minheap, (nums[i][0], nums[i], 0)) # val, list no, pointer pos
+            right=max(right, nums[i][0])
+        left=minheap[0][0]
+        final_left, final_right = left, right
         while True:
-            mv_val, mv_idx, mv_list_idx=heapq.heappop(minheap)
-            if (right-left)<(res_right-res_left):
-                res_left, res_right=left, right
-            if mv_list_idx+1==len(nums[mv_idx]):
-                return [res_left, res_right]
-            heapq.heappush(minheap, (nums[mv_idx][mv_list_idx+1], mv_idx, mv_list_idx+1))
-            right=max(right, nums[mv_idx][mv_list_idx+1])
+            val, l, ptr = heapq.heappop(minheap)
+            if ptr==len(l)-1:
+                break
+            ptr+=1
+            heapq.heappush(minheap, (l[ptr], l, ptr))
+            right=max(right, l[ptr])
             left=minheap[0][0]
+            if right-left<final_right-final_left:
+                final_left, final_right = left, right
+        return final_left, final_right
