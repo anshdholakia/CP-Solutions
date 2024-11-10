@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
+| [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0879-maximize-distance-to-closest-person](https://github.com/anshdholakia/CP-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/anshdholakia/CP-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/anshdholakia/CP-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/anshdholakia/CP-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Divide and Conquer
 |  |
