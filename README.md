@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anshdholakia/CP-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/anshdholakia/CP-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anshdholakia/CP-Solutions/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0118-pascals-triangle) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshdholakia/CP-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/anshdholakia/CP-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
