@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/anshdholakia/CP-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0648-replace-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0648-replace-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0588-design-in-memory-file-system](https://github.com/anshdholakia/CP-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshdholakia/CP-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/anshdholakia/CP-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/anshdholakia/CP-Solutions/tree/master/0588-design-in-memory-file-system) |
+| [0648-replace-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshdholakia/CP-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/anshdholakia/CP-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0472-concatenated-words) |
 | [0588-design-in-memory-file-system](https://github.com/anshdholakia/CP-Solutions/tree/master/0588-design-in-memory-file-system) |
+| [0648-replace-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0648-replace-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2755-extra-characters-in-a-string) |
