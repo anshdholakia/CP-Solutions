@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anshdholakia/CP-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/anshdholakia/CP-Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0252-meeting-rooms](https://github.com/anshdholakia/CP-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/anshdholakia/CP-Solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/anshdholakia/CP-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/anshdholakia/CP-Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/anshdholakia/CP-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/anshdholakia/CP-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/anshdholakia/CP-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0472-concatenated-words) |
 | [0588-design-in-memory-file-system](https://github.com/anshdholakia/CP-Solutions/tree/master/0588-design-in-memory-file-system) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshdholakia/CP-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
