@@ -1,23 +1,34 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        operation = '+'
-        result = 0
-        stack = []
-        current = 0
-        i = 0
+        i=0
+        s=s.replace(" ","")
+        s+='#'
+        cur_op='+'
+        res, prev, digit = 0, 0, 0
         while i<len(s):
             if s[i].isdigit():
-                current = current*10+int(s[i])
-            if s[i] in '+-*/' or i==len(s)-1:
-                if operation=='+':
-                    stack.append(current)
-                elif operation=='-':
-                    stack.append(-current)
-                elif operation=='*':
-                    stack.append(stack.pop()*current)
-                else:
-                    stack.append(int(stack.pop()/current))
-                operation=s[i]
-                current=0
+                digit=10*digit+int(s[i])
+            elif cur_op=='+':
+                res+=digit
+                prev=digit
+                digit=0
+                cur_op=s[i]
+            elif cur_op=='-':
+                res-=digit
+                prev=-digit
+                digit=0
+                cur_op=s[i]
+            elif cur_op=='*':
+                res-=prev
+                res+=(prev*digit)
+                prev=(prev*digit)
+                digit=0
+                cur_op=s[i]
+            elif cur_op=='/':
+                res-=prev
+                res+=int(prev/digit)
+                prev=int(prev/digit)
+                digit=0
+                cur_op=s[i]
             i+=1
-        return sum(stack)
+        return res
