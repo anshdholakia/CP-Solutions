@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anshdholakia/CP-Solutions/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anshdholakia/CP-Solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/anshdholakia/CP-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/anshdholakia/CP-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/anshdholakia/CP-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anshdholakia/CP-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anshdholakia/CP-Solutions/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/anshdholakia/CP-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0118-pascals-triangle) |
