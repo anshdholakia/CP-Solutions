@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2165-plates-between-candles](https://github.com/anshdholakia/CP-Solutions/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshdholakia/CP-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2165-plates-between-candles](https://github.com/anshdholakia/CP-Solutions/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshdholakia/CP-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
