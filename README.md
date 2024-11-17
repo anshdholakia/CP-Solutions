@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0879-maximize-distance-to-closest-person](https://github.com/anshdholakia/CP-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/anshdholakia/CP-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/anshdholakia/CP-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshdholakia/CP-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/anshdholakia/CP-Solutions/tree/master/1304-longest-happy-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anshdholakia/CP-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anshdholakia/CP-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -762,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshdholakia/CP-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Doubly-Linked List
@@ -795,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
 |  |
