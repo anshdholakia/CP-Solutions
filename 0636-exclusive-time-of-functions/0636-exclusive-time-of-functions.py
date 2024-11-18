@@ -1,17 +1,17 @@
 class Solution:
     def exclusiveTime(self, n: int, logs: List[str]) -> List[int]:
-        exclusive=[0]*n
-        latest_time=0
         stack=[]
-        for l in logs:
-            l=l.split(":")
-            if l[1]=="start":
+        latest_time=0
+        exclusive=[0]*n
+        for log in logs:
+            ID, OP, TIME = log.split(":")
+            if OP=="start":
                 if stack:
-                    exclusive[stack[-1][0]]+=(int(l[2])-latest_time)
-                stack.append((int(l[0]), int(l[2])))
-                latest_time=int(l[2])
+                    exclusive[stack[-1][0]]+=(int(TIME)-latest_time)
+                stack.append((int(ID), int(TIME)))
+                latest_time=int(TIME)
             else:
-                pop=stack.pop()
-                exclusive[pop[0]]+=(int(l[2])-latest_time+1)
-                latest_time=int(l[2])+1
+                stack.pop()
+                exclusive[int(ID)]+=(int(TIME)-latest_time+1)
+                latest_time=int(TIME)+1
         return exclusive
