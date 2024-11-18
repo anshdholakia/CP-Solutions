@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/anshdholakia/CP-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1755-defuse-the-bomb](https://github.com/anshdholakia/CP-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1909-buildings-with-an-ocean-view](https://github.com/anshdholakia/CP-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [1923-sentence-similarity-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshdholakia/CP-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1755-defuse-the-bomb](https://github.com/anshdholakia/CP-Solutions/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
