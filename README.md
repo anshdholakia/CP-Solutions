@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/anshdholakia/CP-Solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
+| [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/anshdholakia/CP-Solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
