@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0454-4sum-ii) |
 | [0472-concatenated-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0539-minimum-time-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/0539-minimum-time-difference) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/anshdholakia/CP-Solutions/tree/master/0670-maximum-swap) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/anshdholakia/CP-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/anshdholakia/CP-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 ## Rolling Hash
 |  |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1240-stone-game-ii) |
 ## Iterator
 |  |
