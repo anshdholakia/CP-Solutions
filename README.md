@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/anshdholakia/CP-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anshdholakia/CP-Solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Bitmask
 |  |
 | ------- |
