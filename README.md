@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/anshdholakia/CP-Solutions/tree/master/0670-maximum-swap) |
+| [0796-reaching-points](https://github.com/anshdholakia/CP-Solutions/tree/master/0796-reaching-points) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1240-stone-game-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1240-stone-game-ii) |
