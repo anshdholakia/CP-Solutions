@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1022-unique-paths-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshdholakia/CP-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anshdholakia/CP-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1130-last-stone-weight-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1130-last-stone-weight-ii) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/anshdholakia/CP-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/anshdholakia/CP-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/anshdholakia/CP-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/anshdholakia/CP-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshdholakia/CP-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/anshdholakia/CP-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -893,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1909-buildings-with-an-ocean-view](https://github.com/anshdholakia/CP-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Eulerian Circuit
 |  |
