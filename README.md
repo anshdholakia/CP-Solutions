@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
+| [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [0879-maximize-distance-to-closest-person](https://github.com/anshdholakia/CP-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshdholakia/CP-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/anshdholakia/CP-Solutions/tree/master/0670-maximum-swap) |
 | [0796-reaching-points](https://github.com/anshdholakia/CP-Solutions/tree/master/0796-reaching-points) |
+| [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1240-stone-game-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1240-stone-game-ii) |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
+| [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [1240-stone-game-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1240-stone-game-ii) |
 ## Iterator
 |  |
@@ -924,4 +928,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/anshdholakia/CP-Solutions/tree/master/0277-find-the-celebrity) |
+| [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
