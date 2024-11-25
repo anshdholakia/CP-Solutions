@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
+| [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [0879-maximize-distance-to-closest-person](https://github.com/anshdholakia/CP-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0542-01-matrix) |
+| [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
 | [1022-unique-paths-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshdholakia/CP-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshdholakia/CP-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
