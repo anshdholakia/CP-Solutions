@@ -1,20 +1,17 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        stack = []
-        cur_s = []
-        removed = 0
-        for i in range(len(s)):
-            if s[i]==')':
-                if not stack:
-                    removed+=1
-                    continue
-                else:
+        # store the idx of the bracket in stack
+        stack=[]
+        for i, c in enumerate(s):
+            if c==')':
+                if not stack or stack[-1][0]==')':
+                    stack.append((c, i))
+                elif stack[-1][0]=='(':
                     stack.pop()
-            elif s[i]=='(':
-                stack.append(i-removed)
-            cur_s.append(s[i])
-        removed = 0
-        for i in stack:
-            cur_s.pop(i-removed)
+            elif c=='(':
+                stack.append((c, i))
+        removed=0
+        for _, idx in stack:
+            s=s[:(idx-removed)]+s[(idx-removed)+1:]
             removed+=1
-        return "".join(cur_s)
+        return s
