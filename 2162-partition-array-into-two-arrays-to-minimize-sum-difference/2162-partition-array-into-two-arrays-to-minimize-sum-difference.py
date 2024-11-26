@@ -6,7 +6,7 @@ class Solution:
             subsets=defaultdict(list)
             subsets[0]=[0]
             for n in cur_nums:
-                for k, v in deepcopy(subsets).items():
+                for k, v in sorted(subsets.items(),reverse=True):
                     for s in v:
                         subsets[k+1].append(s+n)
             return subsets
