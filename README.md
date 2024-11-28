@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/anshdholakia/CP-Solutions/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/anshdholakia/CP-Solutions/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/anshdholakia/CP-Solutions/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/anshdholakia/CP-Solutions/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
+| [0286-walls-and-gates](https://github.com/anshdholakia/CP-Solutions/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0339-nested-list-weight-sum) |
