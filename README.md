@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0312-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0312-burst-balloons) |
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0312-burst-balloons) |
 | [0403-frog-jump](https://github.com/anshdholakia/CP-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
