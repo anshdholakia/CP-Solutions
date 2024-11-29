@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/anshdholakia/CP-Solutions/tree/master/2012-process-tasks-using-servers) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/anshdholakia/CP-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anshdholakia/CP-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/2139-detect-squares) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1762-furthest-building-you-can-reach](https://github.com/anshdholakia/CP-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/anshdholakia/CP-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anshdholakia/CP-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
