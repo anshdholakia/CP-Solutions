@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/anshdholakia/CP-Solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0518-coin-change-ii) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/anshdholakia/CP-Solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
