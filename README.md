@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [0879-maximize-distance-to-closest-person](https://github.com/anshdholakia/CP-Solutions/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/anshdholakia/CP-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
 | [0636-exclusive-time-of-functions](https://github.com/anshdholakia/CP-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
+| [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/anshdholakia/CP-Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
+| [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1909-buildings-with-an-ocean-view](https://github.com/anshdholakia/CP-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
 ## Eulerian Circuit
