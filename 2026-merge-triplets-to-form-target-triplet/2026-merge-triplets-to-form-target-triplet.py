@@ -1,8 +1,8 @@
 class Solution:
     def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
-        result = [-float("inf"), -float("inf"), -float("inf")]
+        res_a, res_b, res_c = -inf, -inf, -inf
         for a, b, c in triplets:
             if a>target[0] or b>target[1] or c>target[2]:
                 continue
-            result = [max(result[0], a), max(result[1], b), max(result[2], c)]
-        return result==target
+            res_a, res_b, res_c = max(res_a, a), max(res_b, b), max(res_c, c)
+        return [res_a, res_b, res_c]==target
