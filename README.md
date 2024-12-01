@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0312-burst-balloons) |
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshdholakia/CP-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0229-majority-element-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshdholakia/CP-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshdholakia/CP-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshdholakia/CP-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/anshdholakia/CP-Solutions/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/anshdholakia/CP-Solutions/tree/master/0280-wiggle-sort) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anshdholakia/CP-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/anshdholakia/CP-Solutions/tree/master/0502-ipo) |
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshdholakia/CP-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/anshdholakia/CP-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
@@ -736,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshdholakia/CP-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
@@ -1063,4 +1069,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
