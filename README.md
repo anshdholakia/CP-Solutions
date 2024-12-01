@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/anshdholakia/CP-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/anshdholakia/CP-Solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-valid-palindrome-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1178-valid-palindrome-iii) |
 | [1240-stone-game-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshdholakia/CP-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/anshdholakia/CP-Solutions/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1881-closest-subsequence-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
