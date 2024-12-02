@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [0370-range-addition](https://github.com/anshdholakia/CP-Solutions/tree/master/0370-range-addition) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshdholakia/CP-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/anshdholakia/CP-Solutions/tree/master/0588-design-in-memory-file-system) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
+| [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [0410-split-array-largest-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anshdholakia/CP-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
@@ -1046,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
 ## Counting Sort
 |  |
