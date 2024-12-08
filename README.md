@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/anshdholakia/CP-Solutions/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/2139-detect-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/anshdholakia/CP-Solutions/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshdholakia/CP-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1881-closest-subsequence-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2360-substring-with-largest-variance](https://github.com/anshdholakia/CP-Solutions/tree/master/2360-substring-with-largest-variance) |
 | [2755-extra-characters-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshdholakia/CP-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/anshdholakia/CP-Solutions/tree/master/2012-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anshdholakia/CP-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/anshdholakia/CP-Solutions/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshdholakia/CP-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
