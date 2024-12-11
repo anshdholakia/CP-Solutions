@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anshdholakia/CP-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/anshdholakia/CP-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/anshdholakia/CP-Solutions/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/anshdholakia/CP-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshdholakia/CP-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/anshdholakia/CP-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshdholakia/CP-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
