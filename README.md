@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
 | [0636-exclusive-time-of-functions](https://github.com/anshdholakia/CP-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/anshdholakia/CP-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/anshdholakia/CP-Solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anshdholakia/CP-Solutions/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anshdholakia/CP-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
+| [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1909-buildings-with-an-ocean-view](https://github.com/anshdholakia/CP-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
