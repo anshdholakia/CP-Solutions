@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/anshdholakia/CP-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/anshdholakia/CP-Solutions/tree/master/1008-binary-tree-cameras) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
