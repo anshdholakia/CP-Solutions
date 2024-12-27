@@ -1,9 +1,8 @@
 class Solution:
     def maxScoreSightseeingPair(self, values: List[int]) -> int:
-        heap=[]
+        dp=values[0]
         res=-inf
-        for i in range(len(values)):
-            if heap:
-                res=max(res, -heap[0]+values[i]-i)
-            heapq.heappush(heap, -values[i]-i)
+        for i in range(1, len(values)):
+            res=max(res, dp+values[i]-i)
+            dp=max(dp, values[i]+i)
         return res
