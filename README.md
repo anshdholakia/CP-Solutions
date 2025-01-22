@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/anshdholakia/CP-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1876-map-of-highest-peak](https://github.com/anshdholakia/CP-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1881-closest-subsequence-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/anshdholakia/CP-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1909-buildings-with-an-ocean-view](https://github.com/anshdholakia/CP-Solutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshdholakia/CP-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/anshdholakia/CP-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/anshdholakia/CP-Solutions/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
+| [1876-map-of-highest-peak](https://github.com/anshdholakia/CP-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
