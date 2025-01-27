@@ -14,7 +14,10 @@ class Solution:
                 for neighbor in G[pop]:
                     if neighbor not in visited:
                         visited.add(neighbor)
-                        queue.append(neighbor)
+                        if nodeToChildren[neighbor]:
+                            visited.update(nodeToChildren[neighbor])
+                        else:
+                            queue.append(neighbor)
             nodeToChildren[node].update(visited)
         for i in range(numCourses):
             bfs(i)
