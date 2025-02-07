@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/anshdholakia/CP-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
+| [0917-boats-to-save-people](https://github.com/anshdholakia/CP-Solutions/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/anshdholakia/CP-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/anshdholakia/CP-Solutions/tree/master/0917-boats-to-save-people) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1881-closest-subsequence-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [1923-sentence-similarity-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/anshdholakia/CP-Solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0917-boats-to-save-people](https://github.com/anshdholakia/CP-Solutions/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anshdholakia/CP-Solutions/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/anshdholakia/CP-Solutions/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/anshdholakia/CP-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
