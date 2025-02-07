@@ -1,18 +1,14 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
-        # use cyclic sort
-        # replace all negatives with zeros
-        n=len(nums)
-        for i, x in enumerate(nums):
-            if x<0:
-                nums[i]=0
-        for x in range(len(nums)):
-            if nums[x]!=0 and abs(nums[x])-1<n:
-                if nums[abs(nums[x])-1]>0:
-                    nums[abs(nums[x])-1]*=-1
-                elif nums[abs(nums[x])-1]==0:
-                    nums[abs(nums[x])-1]=-n
-        for i in range(n):
-            if nums[i]>=0:
+        # replace negative with out of bounds
+        bounds=len(nums)
+        for i in range(len(nums)):
+            if nums[i]<=0:
+                nums[i]=bounds+1
+        for i in range(len(nums)):
+            if abs(nums[i])-1<len(nums) and nums[abs(nums[i])-1]>0:
+                nums[abs(nums[i])-1]*=-1
+        for i in range(len(nums)):
+            if nums[i]>0:
                 return i+1
-        return n+1
+        return bounds+1
