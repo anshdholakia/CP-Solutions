@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshdholakia/CP-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/anshdholakia/CP-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshdholakia/CP-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2139-detect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anshdholakia/CP-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
 ## Binary Search
 |  |
