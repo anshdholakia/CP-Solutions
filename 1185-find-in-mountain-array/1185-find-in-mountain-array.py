@@ -8,45 +8,55 @@
 
 class Solution:
     def findInMountainArray(self, target: int, mountainArr: 'MountainArray') -> int:
-        def bin_search(l, r):
-            while l<=r:
-                m=(l+r)//2
-                m_val=mountainArr.get(m)
-                if m_val==target:
-                    return m
-                if m_val<target:
-                    l=m+1
-                else:
-                    r=m-1
-        def rev_bin_search(l, r):
-            while l<=r:
-                m=(l+r)//2
-                m_val=mountainArr.get(m)
-                if m_val==target:
-                    return m
-                if m_val>target:
-                    l=m+1
-                else:
-                    r=m-1
-                
-        # find the peak
-        l, r = 0, mountainArr.length()-1
-        res=None
+        # find peak of mountain array
+        length=mountainArr.length()
+        l, r = 0, length-1
+        val=None
         while l<=r:
             m=(l+r)//2
+            m_minus=mountainArr.get(m-1) if m-1>=0 else -inf
             m_val=mountainArr.get(m)
-            m_minus_val=(mountainArr.get(m-1) if m>0 else -inf)
-            m_plus_val=(mountainArr.get(m+1) if m<=mountainArr.length()-2 else -inf)
-            if m_val>m_minus_val and m_val>m_plus_val:
-                #found peak
-                if m_val==target:
-                    return m
-                res=bin_search(0, m-1)
-                if res==None:
-                    res=rev_bin_search(m+1, mountainArr.length()-1)
+            m_plus=mountainArr.get(m+1) if m+1<length else -inf
+            if m_minus<m_val and m_val>m_plus:
+                val=m_val
                 break
-            elif m_val<m_plus_val:
+            elif m_minus<m_val:
                 l=m+1
             else:
                 r=m-1
-        return res if res!=None else -1
+        if val==None or val<target:
+            return -1
+        if val==target:
+            return m
+        def binary_search(l, r):
+            while l<=r:
+                m=(l+r)//2
+                m_val=mountainArr.get(m)
+                if m_val==target:
+                    return m
+                elif m_val<target:
+                    l=m+1
+                else:
+                    r=m-1
+            return None
+        def rev_binary_search(l, r):
+            while l<=r:
+                m=(l+r)//2
+                m_val=mountainArr.get(m)
+                if m_val==target:
+                    return m
+                elif m_val>target:
+                    l=m+1
+                else:
+                    r=m-1
+            return None
+        # search in the 0..m-1 array first
+        first=binary_search(0, m-1)
+        if first!=None:
+            return first
+        # search in the m+1..length array second
+        second=rev_binary_search(m+1, mountainArr.length()-1)
+        if second!=None:
+            return second
+        return -1
+
