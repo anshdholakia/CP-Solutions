@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/anshdholakia/CP-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0076-minimum-window-substring) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anshdholakia/CP-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/anshdholakia/CP-Solutions/tree/master/0077-combinations) |
