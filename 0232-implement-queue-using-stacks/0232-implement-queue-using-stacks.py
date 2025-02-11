@@ -1,4 +1,5 @@
 class MyQueue:
+
     def __init__(self):
         self.stack1, self.stack2 = [], []
 
@@ -18,7 +19,8 @@ class MyQueue:
         return self.stack2[-1]
 
     def empty(self) -> bool:
-        return not self.stack1 and not self.stack2
+        return max(len(self.stack1), len(self.stack2))==0
+        
 
 
 # Your MyQueue object will be instantiated and called as such:
