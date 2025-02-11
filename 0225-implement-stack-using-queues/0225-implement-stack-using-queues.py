@@ -1,23 +1,29 @@
 class MyStack:
 
     def __init__(self):
-        self.queue1, self.queue2 = collections.deque(), collections.deque()
+        self.queue1, self.queue2 = collections.deque([]), collections.deque([])
 
     def push(self, x: int) -> None:
         self.queue1.append(x)
-        # after pushing make sure all elements are shifted
-        while self.queue2:
-            self.queue1.append(self.queue2.popleft())
-        self.queue1, self.queue2 = self.queue2, self.queue1
 
     def pop(self) -> int:
-        return self.queue2.popleft()
+        while len(self.queue1)!=1:
+            self.queue2.append(self.queue1.popleft())
+        result=self.queue1.popleft()
+        self.queue1, self.queue2 = self.queue2, self.queue1
+        return result
+        
 
     def top(self) -> int:
-        return self.queue2[0]
-        
+        while len(self.queue1)!=1:
+            self.queue2.append(self.queue1.popleft())
+        result=self.queue1.popleft()
+        self.queue2.append(result)
+        self.queue1, self.queue2 = self.queue2, self.queue1
+        return result
+
     def empty(self) -> bool:
-        return not self.queue2
+        return len(self.queue1)==0
 
 
 # Your MyStack object will be instantiated and called as such:
