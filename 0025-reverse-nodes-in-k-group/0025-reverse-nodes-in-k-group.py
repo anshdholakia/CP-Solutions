@@ -5,9 +5,13 @@
 #         self.next = next
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        def reverseKNodes(node, end):
-            a=node
-            b=node.next
+        dummy=ListNode(-1)
+        cur_k=1
+        ptr=head
+        group_start=head
+        prev_end=None
+        def reverse(start, end):
+            a, b = start, start.next
             a.next=None
             while a!=end:
                 c=b.next
@@ -15,30 +19,21 @@ class Solution:
                 a=b
                 b=c
             return a
-
-        dummy=ListNode()
-        dummy.next=None
-        cur_k=1
-        curGroupStart=head
-        prevGroupEnd=None
-        while head:
-            if not cur_k%k:
-                curGroupEnd=head
-                head=head.next
-                curGroupEnd.next=None
-                #reverse the nodes
-                groupStart=reverseKNodes(curGroupStart, curGroupEnd)
+        while ptr:
+            if cur_k%k==0:
+                new_start=ptr.next
+                reversed_group=reverse(group_start, ptr)
                 if not dummy.next:
-                    dummy.next=groupStart
-                if prevGroupEnd:
-                    prevGroupEnd.next=groupStart
-                prevGroupEnd=curGroupStart
-                curGroupStart=head
+                    dummy.next=reversed_group
+                if prev_end:
+                    prev_end.next=reversed_group
+                prev_end=group_start
+                group_start=new_start
+                ptr=new_start
                 cur_k+=1
                 continue
             cur_k+=1
-            head=head.next
-        if prevGroupEnd:
-            prevGroupEnd.next=curGroupStart
+            ptr=ptr.next
+        if new_start:
+            prev_end.next=new_start
         return dummy.next
-        
