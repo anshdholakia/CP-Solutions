@@ -1,20 +1,22 @@
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
-        def check(max_val):
+        def check(x):
+            # check if you can make subarray under k with max sum of x
+            cur_sum=0
             cur_k=1
-            cur_s=0
-            for i in range(len(nums)):
-                cur_s+=nums[i]
-                if cur_s>max_val:
-                    cur_s=nums[i]
+            for n in nums:
+                cur_sum+=n
+                if cur_sum>x:
+                    cur_sum=n
+                    if cur_sum>x:
+                        return False
                     cur_k+=1
-            return cur_k
-        # do binary search on the max of the nums and sum of nums
+            return cur_k<=k
         l, r = max(nums), sum(nums)
-        res=r
+        res=-1
         while l<=r:
             m=(l+r)//2
-            if check(m)<=k:
+            if check(m):
                 res=m
                 r=m-1
             else:
