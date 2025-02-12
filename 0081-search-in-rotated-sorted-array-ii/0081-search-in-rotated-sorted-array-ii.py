@@ -6,17 +6,15 @@ class Solution:
             if nums[m]==target:
                 return True
             if nums[l]<nums[m]:
-                # left part is sorted
-                if target<nums[l] or target>nums[m]:
-                    l=m+1
-                else:
+                if nums[l]<=target<=nums[m]:
                     r=m-1
+                else:
+                    l=m+1
             elif nums[l]>nums[m]:
-                # right part is sorted
-                if target<nums[m] or target>nums[r]:
-                    r=m-1
-                else:
+                if nums[m]<=target<=nums[r]:
                     l=m+1
+                else:
+                    r=m-1
             else:
                 l+=1
         return False
