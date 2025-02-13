@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3429-special-array-i) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Ordered Set
 |  |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/anshdholakia/CP-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
