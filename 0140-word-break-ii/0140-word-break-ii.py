@@ -1,16 +1,16 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+        cur_res=[]
+        result=[]
         wordDict=set(wordDict)
-        res=[]
-        cur=[]
-        def dfs(x):
-            if x==len(s):
-                res.append(" ".join(cur))
+        def dfs(i):
+            if i==len(s):
+                result.append(" ".join(cur_res))
                 return
-            for k in range(x, len(s)):
-                if s[x:k+1] in wordDict:
-                    cur.append(s[x:k+1])
+            for k in range(i, len(s)):
+                if s[i:k+1] in wordDict:
+                    cur_res.append(s[i:k+1])
                     dfs(k+1)
-                    cur.pop()
+                    cur_res.pop()
         dfs(0)
-        return res
+        return result
