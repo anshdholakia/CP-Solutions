@@ -964,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/anshdholakia/CP-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/anshdholakia/CP-Solutions/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0339-nested-list-weight-sum) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/anshdholakia/CP-Solutions/tree/master/0277-find-the-celebrity) |
+| [0310-minimum-height-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/anshdholakia/CP-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anshdholakia/CP-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
+| [0310-minimum-height-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
 ## Union Find
