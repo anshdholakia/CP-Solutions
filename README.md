@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/anshdholakia/CP-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/anshdholakia/CP-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/anshdholakia/CP-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1572-subrectangle-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/1572-subrectangle-queries) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anshdholakia/CP-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/anshdholakia/CP-Solutions/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/anshdholakia/CP-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/anshdholakia/CP-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/anshdholakia/CP-Solutions/tree/master/1962-single-threaded-cpu) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anshdholakia/CP-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/anshdholakia/CP-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/anshdholakia/CP-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/anshdholakia/CP-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anshdholakia/CP-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1065,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anshdholakia/CP-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1138,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anshdholakia/CP-Solutions/tree/master/0547-number-of-provinces) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
+| [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Shortest Path
 |  |
