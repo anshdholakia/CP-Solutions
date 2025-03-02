@@ -4,17 +4,17 @@ class Solution:
         for u, v, w in times:
             G[u].append((v, w))
         visited=set({})
-        minheap=[(0, k)]
-        while minheap:
-            minw=minheap[0][0]
-            while minheap and minheap[0][0]==minw:
-                w, node = heapq.heappop(minheap)
+        heap=[(0, k)]
+        while heap:
+            time = heap[0][0]
+            while heap and heap[0][0]==time:
+                _, node = heapq.heappop(heap)
                 if node in visited:
                     continue
                 visited.add(node)
-                for neighbor, weight in G[node]:
-                    if neighbor not in visited:
-                        heapq.heappush(minheap, (minw+weight, neighbor))
-            if len(visited)>=n:
-                return minw
+                for neigh, weight in G[node]:
+                    if neigh not in visited:
+                        heapq.heappush(heap, (weight+time, neigh))
+            if len(visited)==n:
+                return time
         return -1
