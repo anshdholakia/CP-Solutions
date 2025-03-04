@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2472-build-a-matrix-with-conditions](https://github.com/anshdholakia/CP-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/anshdholakia/CP-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Design
 |  |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/anshdholakia/CP-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/anshdholakia/CP-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2472-build-a-matrix-with-conditions](https://github.com/anshdholakia/CP-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3189-find-champion-ii) |
 ## Topological Sort
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/anshdholakia/CP-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
