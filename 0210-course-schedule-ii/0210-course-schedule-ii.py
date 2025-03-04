@@ -1,29 +1,30 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        G = defaultdict(list)
-        for p, c in prerequisites:
-            G[c].append(p)
-
-        topo = []
-        cycle = set({})
-        visited = set({})
-        def dfs(course):
-            if course in cycle:
+        G=defaultdict(list)
+        for fro, to in prerequisites:
+            G[fro].append(to)
+        res=[]
+        cycle=set({})
+        visited=set({})
+        def dfs(n):
+            if n in cycle:
                 return False
-            if course in visited:
+            if n in visited:
                 return True
-            visited.add(course)
-            if not G[course]:
-                topo.append(course)
+            visited.add(n)
+            if not G[n]:
+                res.append(n)
                 return True
-            cycle.add(course)
-            for n in G[course]:
-                if not dfs(n):
+            cycle.add(n)
+            for neigh in G[n]:
+                if not dfs(neigh):
                     return False
-            cycle.remove(course)
-            topo.append(course)
+            cycle.remove(n)
+            G[n].clear()
+            res.append(n)
             return True
+
         for i in range(numCourses):
             if not dfs(i):
                 return []
-        return topo[::-1]
+        return res
