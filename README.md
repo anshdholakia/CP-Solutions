@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0460-lfu-cache) |
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0567-permutation-in-string) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/anshdholakia/CP-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0460-lfu-cache) |
 | [0588-design-in-memory-file-system](https://github.com/anshdholakia/CP-Solutions/tree/master/0588-design-in-memory-file-system) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/anshdholakia/CP-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Bitmask
 |  |
