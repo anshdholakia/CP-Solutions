@@ -1,27 +1,26 @@
-from sortedcontainers import SortedList
 class Solution:
 
     def __init__(self, w: List[int]):
-        self.sl=SortedList()
-        SUM=sum(w)
-        self.sum=SUM
-        prevIdx=0
-        for i in w:
-            self.sl.add((prevIdx, i+prevIdx-1))
-            prevIdx=i+prevIdx
+        self.total=sum(w)
+        self.intervals=[]
+        t=0
+        for _, weight in enumerate(w):
+            self.intervals.append((t, t+weight-1))
+            t+=weight
 
     def pickIndex(self) -> int:
-        idx=randint(0,self.sum-1)
-        # use binary search to get the index
-        l, r = 0, len(self.sl)-1
+        # generate random number from 0 to self.total
+        rnd=random.randint(0, self.total-1)
+        # use binary search to find in intervals
+        l, r = 0, len(self.intervals)-1
         while l<=r:
             m=(l+r)//2
-            if self.sl[m][0]<=idx<=self.sl[m][1]:
-                return m
-            if self.sl[m][0]>idx:
+            if rnd<self.intervals[m][0]:
                 r=m-1
-            else:
+            elif rnd>self.intervals[m][1]:
                 l=m+1
+            else:
+                return m
 
 
 
