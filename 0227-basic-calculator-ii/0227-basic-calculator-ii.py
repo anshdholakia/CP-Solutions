@@ -1,34 +1,30 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        i=0
-        s=s.replace(" ","")
-        s+='#'
+        s=s.replace(" ","")+'+'
         cur_op='+'
-        res, prev, digit = 0, 0, 0
-        while i<len(s):
-            if s[i].isdigit():
-                digit=10*digit+int(s[i])
-            elif cur_op=='+':
-                res+=digit
-                prev=digit
+        idx=0
+        digit=0
+        prev_digit=0
+        result=0
+        while idx<len(s):
+            if s[idx].isdigit():
+                digit=digit*10+int(s[idx])
+            else:
+                if cur_op=='+':
+                    prev_digit=digit
+                    result+=digit
+                elif cur_op=='-':
+                    prev_digit=-digit
+                    result-=digit
+                elif cur_op=='*':
+                    result-=prev_digit
+                    prev_digit=prev_digit*digit
+                    result+=prev_digit
+                else:
+                    result-=prev_digit
+                    prev_digit=int(prev_digit/digit)
+                    result+=prev_digit
                 digit=0
-                cur_op=s[i]
-            elif cur_op=='-':
-                res-=digit
-                prev=-digit
-                digit=0
-                cur_op=s[i]
-            elif cur_op=='*':
-                res-=prev
-                res+=(prev*digit)
-                prev=(prev*digit)
-                digit=0
-                cur_op=s[i]
-            elif cur_op=='/':
-                res-=prev
-                res+=int(prev/digit)
-                prev=int(prev/digit)
-                digit=0
-                cur_op=s[i]
-            i+=1
-        return res
+                cur_op=s[idx]
+            idx+=1
+        return result
