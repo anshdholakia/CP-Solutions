@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/anshdholakia/CP-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anshdholakia/CP-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anshdholakia/CP-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/anshdholakia/CP-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anshdholakia/CP-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anshdholakia/CP-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anshdholakia/CP-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2201-valid-arrangement-of-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -1104,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1142-minimum-knight-moves](https://github.com/anshdholakia/CP-Solutions/tree/master/1142-minimum-knight-moves) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/anshdholakia/CP-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anshdholakia/CP-Solutions/tree/master/1876-map-of-highest-peak) |
