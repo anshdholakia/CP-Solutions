@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anshdholakia/CP-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0835-linked-list-components](https://github.com/anshdholakia/CP-Solutions/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/anshdholakia/CP-Solutions/tree/master/0860-design-circular-queue) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0531-lonely-pixel-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0898-transpose-matrix) |
 | [1022-unique-paths-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshdholakia/CP-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/anshdholakia/CP-Solutions/tree/master/1184-car-pooling) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/anshdholakia/CP-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -1035,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1119,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1209,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/anshdholakia/CP-Solutions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/anshdholakia/CP-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
