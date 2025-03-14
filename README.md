@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/anshdholakia/CP-Solutions/tree/master/0408-valid-word-abbreviation) |
+| [0415-add-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshdholakia/CP-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/anshdholakia/CP-Solutions/tree/master/0443-string-compression) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/anshdholakia/CP-Solutions/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anshdholakia/CP-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/anshdholakia/CP-Solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0415-add-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/anshdholakia/CP-Solutions/tree/master/1184-car-pooling) |
