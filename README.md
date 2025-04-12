@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/anshdholakia/CP-Solutions/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshdholakia/CP-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0252-meeting-rooms](https://github.com/anshdholakia/CP-Solutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshdholakia/CP-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshdholakia/CP-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshdholakia/CP-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/anshdholakia/CP-Solutions/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshdholakia/CP-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -1337,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anshdholakia/CP-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshdholakia/CP-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshdholakia/CP-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
@@ -1394,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
