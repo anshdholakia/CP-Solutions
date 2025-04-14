@@ -3,25 +3,23 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        pvt=None
-        for i in range(len(nums)-2, -1, -1):
-            if nums[i+1]>nums[i]:
-                pvt=i
+        for i in range(len(nums)-1, -1, -1):
+            if i>0 and nums[i-1]<nums[i]:
                 break
-        if pvt==None:
+        if i==0:
             nums.reverse()
-            return
-        # find the closest minimum number to swap with
-        min_idx=pvt+1
-        for i in range(pvt+1, len(nums)):
-            if nums[pvt]<nums[i]<nums[min_idx]:
-                min_idx=i
-        # swap pvt with min_idx
-        nums[pvt], nums[min_idx] = nums[min_idx], nums[pvt]
-        # put all the remaining elements in sorted order
-        rem = sorted(nums[pvt+1:])
-        for i in range(pvt+1, len(nums)):
-            nums[i]=rem[i-pvt-1]
-
-        
+            return 
+        # get the smallest digit which is greater than i-1
+        idx=i
+        for k in range(i, len(nums)):
+            if nums[i-1]<nums[k]<=nums[idx]:
+                idx=k
+        # swap the numbers
+        nums[i-1], nums[idx] = nums[idx], nums[i-1]
+        # reverse the order to make it smaller
+        l, r = i, len(nums)-1
+        while l<r:
+            nums[l], nums[r] = nums[r], nums[l]
+            r-=1
+            l+=1
         
