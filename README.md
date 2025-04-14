@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshdholakia/CP-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anshdholakia/CP-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/anshdholakia/CP-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/anshdholakia/CP-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1130-last-stone-weight-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1130-last-stone-weight-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshdholakia/CP-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/anshdholakia/CP-Solutions/tree/master/1184-car-pooling) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/anshdholakia/CP-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0948-sort-an-array) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/anshdholakia/CP-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/anshdholakia/CP-Solutions/tree/master/1184-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anshdholakia/CP-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshdholakia/CP-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anshdholakia/CP-Solutions/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/anshdholakia/CP-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/anshdholakia/CP-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
