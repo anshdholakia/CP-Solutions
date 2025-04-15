@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
 | [0967-minimum-falling-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0976-minimum-area-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0976-minimum-area-rectangle) |
 | [1020-longest-turbulent-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1022-unique-paths-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1022-unique-paths-iii) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/anshdholakia/CP-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/anshdholakia/CP-Solutions/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
+| [0976-minimum-area-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0976-minimum-area-rectangle) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshdholakia/CP-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshdholakia/CP-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-reaching-points](https://github.com/anshdholakia/CP-Solutions/tree/master/0796-reaching-points) |
 | [0873-guess-the-word](https://github.com/anshdholakia/CP-Solutions/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/anshdholakia/CP-Solutions/tree/master/0912-random-pick-with-weight) |
+| [0976-minimum-area-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0976-minimum-area-rectangle) |
 | [1038-number-of-squareful-arrays](https://github.com/anshdholakia/CP-Solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1236-n-th-tribonacci-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/1240-stone-game-ii) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/anshdholakia/CP-Solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/anshdholakia/CP-Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0948-sort-an-array) |
+| [0976-minimum-area-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0976-minimum-area-rectangle) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/anshdholakia/CP-Solutions/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/anshdholakia/CP-Solutions/tree/master/1184-car-pooling) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/anshdholakia/CP-Solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -1483,4 +1487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0976-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
