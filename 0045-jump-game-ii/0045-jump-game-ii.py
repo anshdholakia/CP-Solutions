@@ -1,10 +1,10 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        for i in range(1, len(nums)-1):
-            nums[i] = max(nums[i]+i, nums[i-1])
-        result=0
-        pos=0
-        while pos<len(nums)-1:
-            pos=nums[pos]
-            result+=1
-        return result
+        l, r=0, 0
+        steps=0
+        while r<len(nums)-1:
+            for k in range(l, r+1):
+                r=max(r, k+nums[k])
+            l+=1
+            steps+=1
+        return steps
