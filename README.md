@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/anshdholakia/CP-Solutions/tree/master/0218-the-skyline-problem) |
+| [0221-maximal-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshdholakia/CP-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/anshdholakia/CP-Solutions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/anshdholakia/CP-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/anshdholakia/CP-Solutions/tree/master/0286-walls-and-gates) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
