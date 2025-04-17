@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/anshdholakia/CP-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0311-sparse-matrix-multiplication](https://github.com/anshdholakia/CP-Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0312-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/anshdholakia/CP-Solutions/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/anshdholakia/CP-Solutions/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/anshdholakia/CP-Solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/anshdholakia/CP-Solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/anshdholakia/CP-Solutions/tree/master/0403-frog-jump) |
@@ -1206,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0322-coin-change](https://github.com/anshdholakia/CP-Solutions/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
