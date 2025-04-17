@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anshdholakia/CP-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anshdholakia/CP-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anshdholakia/CP-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anshdholakia/CP-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/anshdholakia/CP-Solutions/tree/master/0075-sort-colors) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshdholakia/CP-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0085-maximal-rectangle) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/0054-spiral-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/anshdholakia/CP-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0415-add-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/anshdholakia/CP-Solutions/tree/master/0735-asteroid-collision) |
