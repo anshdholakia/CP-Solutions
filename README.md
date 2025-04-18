@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/anshdholakia/CP-Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/anshdholakia/CP-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0076-minimum-window-substring) |
