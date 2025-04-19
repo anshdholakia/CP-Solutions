@@ -6,12 +6,12 @@
 #         self.right = right
 class Solution:
     def verticalTraversal(self, root: Optional[TreeNode]) -> List[List[int]]:
-        groups=defaultdict(lambda: defaultdict(list))
-        def dfs(node, key, depth):
+        cache=defaultdict(lambda:defaultdict(list))
+        def dfs(node, idx, depth):
             if not node:
                 return
-            groups[key][depth].append(node.val)
-            dfs(node.left, key-1, depth+1)
-            dfs(node.right, key+1, depth+1)
+            cache[idx][depth].append(node.val)
+            dfs(node.left, idx-1, depth+1)
+            dfs(node.right, idx+1, depth+1)
         dfs(root, 0, 0)
-        return [sum([sorted(groups[k][l]) for l in sorted(groups[k].keys())], []) for k in sorted(groups.keys())]
+        return [sum([sorted(cache[idx][d]) for d in sorted(cache[idx].keys())],[]) for idx in sorted(cache.keys())]
