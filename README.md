@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anshdholakia/CP-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anshdholakia/CP-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anshdholakia/CP-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshdholakia/CP-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/anshdholakia/CP-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2360-substring-with-largest-variance](https://github.com/anshdholakia/CP-Solutions/tree/master/2360-substring-with-largest-variance) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/anshdholakia/CP-Solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Sliding Window
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshdholakia/CP-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0948-sort-an-array) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1386,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Queue
 |  |
 | ------- |
@@ -1401,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
@@ -1443,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/anshdholakia/CP-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/0493-reverse-pairs) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Randomized
 |  |
 | ------- |
@@ -1455,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
 ## Data Stream
 |  |
