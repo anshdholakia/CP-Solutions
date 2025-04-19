@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anshdholakia/CP-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/anshdholakia/CP-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/anshdholakia/CP-Solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/anshdholakia/CP-Solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/anshdholakia/CP-Solutions/tree/master/0189-rotate-array) |
@@ -1363,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshdholakia/CP-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/anshdholakia/CP-Solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/anshdholakia/CP-Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/anshdholakia/CP-Solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/anshdholakia/CP-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
