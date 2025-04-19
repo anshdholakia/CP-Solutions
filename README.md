@@ -913,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1572-subrectangle-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/1572-subrectangle-queries) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/anshdholakia/CP-Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
 | [2139-detect-squares](https://github.com/anshdholakia/CP-Solutions/tree/master/2139-detect-squares) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2434-design-a-number-container-system) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/anshdholakia/CP-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/anshdholakia/CP-Solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/anshdholakia/CP-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
 | [1962-single-threaded-cpu](https://github.com/anshdholakia/CP-Solutions/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/anshdholakia/CP-Solutions/tree/master/2012-process-tasks-using-servers) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
 | [0931-maximum-frequency-stack](https://github.com/anshdholakia/CP-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/anshdholakia/CP-Solutions/tree/master/2434-design-a-number-container-system) |
@@ -1396,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1460,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/anshdholakia/CP-Solutions/tree/master/0937-online-stock-span) |
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anshdholakia/CP-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
 ## Counting Sort
 |  |
 | ------- |
