@@ -5,43 +5,33 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        queue = collections.deque(lists)
-        if not queue:
-            return None
-        while len(queue)!=1:
-            l1 = queue.popleft()
-            l2 = queue.popleft()
-            result = ptr = None
+        def merge(l1, l2):
+            if not l1 or not l2:
+                return l1 or l2
+            ptr=new=None
             while l1 and l2:
                 if l1.val<l2.val:
-                    if not result:
-                        ptr=result=l1
+                    if not new:
+                        new=ptr=l1
                     else:
                         ptr.next=l1
                         ptr=ptr.next
                     l1=l1.next
                 else:
-                    if not result:
-                        ptr=result=l2
+                    if not new:
+                        new=ptr=l2
                     else:
                         ptr.next=l2
                         ptr=ptr.next
                     l2=l2.next
-            while l1:
-                if not result:
-                    result=ptr=l1
+            ptr.next=l2 or l1
+            return new
+        while len(lists)>1:
+            new_lists=[]
+            for i in range(0, len(lists), 2):
+                if i+1<len(lists):
+                    new_lists.append(merge(lists[i], lists[i+1]))
                 else:
-                    ptr.next = l1
-                    ptr=ptr.next
-                l1=l1.next
-            while l2:
-                if not result:
-                    result=ptr=l2
-                else:
-                    ptr.next=l2
-                    ptr=ptr.next
-                l2=l2.next
-            if ptr:
-                ptr.next=None
-            queue.append(result)
-        return queue[0]
+                    new_lists.append(lists[i])
+            lists=new_lists
+        return lists[0] if lists else None
