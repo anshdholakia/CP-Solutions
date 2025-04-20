@@ -1,10 +1,10 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        tt=[((target-p)/s, p) for p, s in zip(position, speed)]
-        tt.sort(key=lambda x: x[1], reverse=True)
+        time=[((target-p)/s, p) for s, p in zip(speed, position)]
+        time.sort(key=lambda x:x[1])
         stack=[]
-        for time, pos in tt:
-            while stack and stack[-1]>=time:
-                time=stack.pop()
-            stack.append(time)
+        for t, pos in time:
+            while stack and stack[-1]<=t:
+                stack.pop()
+            stack.append(t)
         return len(stack)
