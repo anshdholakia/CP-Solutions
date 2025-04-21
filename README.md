@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/anshdholakia/CP-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/anshdholakia/CP-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anshdholakia/CP-Solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/anshdholakia/CP-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0097-interleaving-string) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anshdholakia/CP-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/anshdholakia/CP-Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/anshdholakia/CP-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0097-interleaving-string) |
