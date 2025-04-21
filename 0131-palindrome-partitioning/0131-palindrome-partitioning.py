@@ -1,24 +1,15 @@
 class Solution:
-    def ispalindrome(self, s):
-        l, r = 0, len(s)-1
-        while l<r:
-            if s[l]!=s[r]:
-                return False
-            l+=1
-            r-=1
-        return True
     def partition(self, s: str) -> List[List[str]]:
-        result = []
-        current = []
-        def backtrack(x):
-            if x==len(s):
-                result.append(current.copy())
+        cur=[]
+        res=[]
+        def backtrack(idx):
+            if idx==len(s):
+                res.append(cur.copy())
                 return
-            for k in range(x, len(s)):
-                if self.ispalindrome(s[x:k+1]):
-                    current.append(s[x:k+1])
-                    backtrack(k+1)
-                    current.pop()
+            for i in range(idx, len(s)):
+                if s[idx:i+1]==s[idx:i+1][::-1]:
+                    cur.append(s[idx:i+1])
+                    backtrack(i+1)
+                    cur.pop()
         backtrack(0)
-        return result
-            
+        return res
