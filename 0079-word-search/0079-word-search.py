@@ -1,21 +1,20 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        visited = set({})
-        def backtrack(i, j, cur_word):
-            if not cur_word:
+        visited=set({})
+        def backtrack(x, y, idx):
+            if idx==len(word):
                 return True
-            if (i, j) in visited:
+            if board[x][y]!=word[idx]:
                 return False
-            if i<0 or i>=len(board) or j<0 or j>=len(board[0]):
-                return False
-            if board[i][j]!=cur_word[0]:
-                return False
-            visited.add((i, j))
-            result = backtrack(i+1, j, cur_word[1:]) or backtrack(i, j+1, cur_word[1:]) or backtrack(i, j-1, cur_word[1:]) or backtrack(i-1, j, cur_word[1:])
-            visited.remove((i, j))
-            return result
+            visited.add((x, y))
+            for dx, dy in pairwise([-1,0,1,0,-1]):
+                if 0<=dx+x<len(board) and 0<=dy+y<len(board[0]) and (dx+x,dy+y) not in visited:
+                    if backtrack(dx+x, dy+y, idx+1):
+                        return True
+            visited.remove((x,y))
+            return idx==len(word)-1
         for i in range(len(board)):
             for j in range(len(board[0])):
-                if board[i][j]==word[0] and backtrack(i, j, word):
+                if backtrack(i, j, 0):
                     return True
         return False
