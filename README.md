@@ -914,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/anshdholakia/CP-Solutions/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/anshdholakia/CP-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anshdholakia/CP-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/anshdholakia/CP-Solutions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/anshdholakia/CP-Solutions/tree/master/0860-design-circular-queue) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/anshdholakia/CP-Solutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anshdholakia/CP-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshdholakia/CP-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anshdholakia/CP-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/anshdholakia/CP-Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1185,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/anshdholakia/CP-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshdholakia/CP-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anshdholakia/CP-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -1205,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anshdholakia/CP-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/anshdholakia/CP-Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [0988-flip-equivalent-binary-trees](https://github.com/anshdholakia/CP-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1489,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/anshdholakia/CP-Solutions/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/anshdholakia/CP-Solutions/tree/master/0362-design-hit-counter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/anshdholakia/CP-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/anshdholakia/CP-Solutions/tree/master/0937-online-stock-span) |
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/anshdholakia/CP-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
