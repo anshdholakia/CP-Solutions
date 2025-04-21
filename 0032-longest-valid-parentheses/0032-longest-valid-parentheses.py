@@ -2,19 +2,18 @@ class Solution:
     def longestValidParentheses(self, s: str) -> int:
         stack=[]
         res=0
-        for i, c in enumerate(s):
-            if c==')':
-                if not stack:
-                    stack.append((')',i))
-                elif stack[-1][0]=='(':
-                    stack.pop()
-                    if not stack:
-                        res=max(res, i+1)
+        idx=0
+        while idx<len(s):
+            if s[idx]==')':
+                if stack and stack[-1][0]=='(':
+                    _, i = stack.pop()
+                    if stack:
+                        res=max(res, idx-stack[-1][1])
                     else:
-                        res=max(res, i-stack[-1][1])
+                        res=max(res, idx+1)
                 else:
-                    stack.pop()
-                    stack.append((')', i))
+                    stack.append((')', idx))
             else:
-                stack.append(('(', i))
+                stack.append(('(', idx))
+            idx+=1
         return res
