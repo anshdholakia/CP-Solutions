@@ -16,7 +16,7 @@ class Codec:
         res=[]
         def preorder(node):
             if not node:
-                res.append("N")
+                res.append('N')
                 return
             res.append(str(node.val))
             preorder(node.left)
@@ -31,19 +31,18 @@ class Codec:
         :rtype: TreeNode
         """
         i=0
-        res=data.split(',')
-        def decode():
+        data=data.split(",")
+        def preorder():
             nonlocal i
-            if i==len(res) or res[i]=='N':
+            if data[i]=='N':
                 i+=1
                 return None
-            node=TreeNode(int(res[i]))
+            node=TreeNode(int(data[i]))
             i+=1
-            node.left=decode()
-            node.right=decode()
+            node.left=preorder()
+            node.right=preorder()
             return node
-        return decode()
-        
+        return preorder()
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
