@@ -1,25 +1,31 @@
 class WordDictionary:
 
     def __init__(self):
-        self.trie = {}
+        self.map={}        
 
     def addWord(self, word: str) -> None:
-        cur = self.trie
+        cur_map=self.map
         for w in word:
-            cur[w]=cur.get(w, {})
-            cur=cur[w]
-        cur["#"]=True
+            if w not in cur_map:
+                cur_map[w]={}
+            cur_map=cur_map[w]
+        cur_map['#']=True
 
-    def search(self, word: str, cur=None) -> bool:
-        cur = self.trie if not cur else cur
-        for i in range(len(word)):
-            if word[i]!='.':
-                if word[i] not in cur:
-                    return False
-                cur = cur[word[i]]
-            else:
-                return any([self.search(word[i+1:], cur[k]) for k in cur if k!='#'])
-        return cur.get("#", False)
+    def search(self, word: str, cur_map='Init') -> bool:
+        if cur_map=='Init':
+            cur_map=self.map
+        if not word:
+            return cur_map.get('#',False)
+        if word[0]!='.':
+            return self.search(word[1:], cur_map[word[0]]) if word[0] in cur_map else False
+        res=False
+        for k, v in cur_map.items():
+            if k!='#':
+                res=res or self.search(word[1:], v)
+            if res:
+                break
+        return res
+
 
 # Your WordDictionary object will be instantiated and called as such:
 # obj = WordDictionary()
