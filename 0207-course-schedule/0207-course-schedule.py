@@ -1,24 +1,23 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        G = defaultdict(list)
-        for p, c in prerequisites:
-            G[p].append(c)
-
-        cycle = set({})
-        visited = set({})
-        def dfs(course):
-            if course in cycle:
-                return False
-            if course in visited:
+        G=defaultdict(list)
+        for u, v in prerequisites:
+            G[u].append(v)
+        cycle=set({})
+        def dfs(n):
+            if not G[n]:
                 return True
-            visited.add(course)
-            cycle.add(course)
-            for neighbor in G[course]:
+            if n in cycle:
+                return False
+            cycle.add(n)
+            for neighbor in G[n]:
                 if not dfs(neighbor):
                     return False
-            cycle.remove(course)
+            cycle.remove(n)
+            G[n]=[]
             return True
-        for c in range(numCourses):
-            if c not in visited and not dfs(c):
+        for i in range(numCourses):
+            if not dfs(i):
                 return False
         return True
+        
