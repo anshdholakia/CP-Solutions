@@ -1,12 +1,14 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
+        # get the possible sums in the array
         total=sum(nums)
-        possible_sums=set({0})
         if total%2:
             return False
+        half = total//2
+        sums=set({0})
         for n in nums:
-            for s in possible_sums.copy():
-                possible_sums.add(s+n)
-                if total//2 in possible_sums:
+            for s in sums.copy():
+                sums.add(n+s)
+                if half in sums:
                     return True
         return False
