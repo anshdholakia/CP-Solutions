@@ -1,19 +1,20 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        # dijkstras
-        G = defaultdict(list)
-        for fro, to, price in flights:
-            G[fro].append((price, to))
-        power = {i:float("inf") for i in range(n)}
-        power[src]=0
-        minheap = [(0, src, 0)]
+        G=defaultdict(list)
+        for u, v, w in flights:
+            G[u].append((v, w))
+        minheap=[(0, -1, src)]
+        visited=set({})
         while minheap:
-            popk, popn, popw = heapq.heappop(minheap)
-            if popk>k:
+            distance, cur_k, node = heapq.heappop(minheap)
+            if node==dst:
+                return distance
+            if cur_k==k:
                 continue
-            for w, n in G[popn]:
-                if power[n]>popw+w:
-                    power[n]=popw+w
-                    heapq.heappush(minheap, (popk+1, n, power[n]))
-        return power[dst] if power[dst]!=float("inf") else -1
-            
+            if (cur_k, node) in visited:
+                continue
+            visited.add((cur_k, node))
+            for neighbor, weight in G[node]:
+                if (cur_k+1, neighbor) not in visited:
+                    heapq.heappush(minheap, (distance+weight, cur_k+1, neighbor))
+        return -1
