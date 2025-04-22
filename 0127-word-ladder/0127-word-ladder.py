@@ -1,24 +1,29 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        mapping = defaultdict(list)
-        G = defaultdict(set)
+        G_dummy=defaultdict(set)
+        G=defaultdict(list)
         wordList.append(beginWord)
-        for word in wordList:
-            for i in range(len(word)):
-                for ex in mapping[word[:i]+"*"+word[i+1:]]:
-                    G[ex].add(word)
-                    G[word].add(ex)
-                mapping[word[:i]+"*"+word[i+1:]].append(word)
-        # bfs this ting
-        queue=collections.deque([(beginWord, 1)])
+        for w in wordList:
+            for i in range(len(w)):
+                new_word=w[:i]+'*'+w[i+1:]
+                for w1 in G_dummy[new_word]:
+                    G[w1].append(w)
+                    G[w].append(w1)
+                G_dummy[new_word].add(w)
+        # use bfs
+        queue=collections.deque([beginWord])
         visited=set({beginWord})
+        if beginWord==endWord:
+            return 0
+        res=1
         while queue:
             for _ in range(len(queue)):
-                pop, l = queue.popleft()
+                pop=queue.popleft()
                 if pop==endWord:
-                    return l
-                for n in G[pop]:
-                    if n not in visited:
-                        visited.add(n)
-                        queue.append((n, l+1))
+                    return res
+                for neighbor in G[pop]:
+                    if neighbor not in visited:
+                        visited.add(neighbor)
+                        queue.append(neighbor)
+            res+=1
         return 0
