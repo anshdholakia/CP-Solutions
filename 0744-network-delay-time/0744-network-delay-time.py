@@ -3,18 +3,19 @@ class Solution:
         G=defaultdict(list)
         for u, v, w in times:
             G[u].append((v, w))
+        time=0
         visited=set({})
-        heap=[(0, k)]
-        while heap:
-            time = heap[0][0]
-            while heap and heap[0][0]==time:
-                _, node = heapq.heappop(heap)
+        minheap=[(0, k)]
+        while minheap and len(visited)!=n:
+            while minheap and minheap[0][0]==time:
+                _, node=heapq.heappop(minheap)
                 if node in visited:
                     continue
                 visited.add(node)
-                for neigh, weight in G[node]:
-                    if neigh not in visited:
-                        heapq.heappush(heap, (weight+time, neigh))
-            if len(visited)==n:
-                return time
-        return -1
+                if len(visited)==n:
+                    return time
+                for neighbor, weight in G[node]:
+                    if neighbor not in visited:
+                        heapq.heappush(minheap, (weight+time, neighbor))
+            time+=1
+        return time if len(visited)==n else -1
