@@ -1,18 +1,22 @@
 class DetectSquares:
 
     def __init__(self):
-        self.points=defaultdict(int)
+        self.freq=defaultdict(int)
 
     def add(self, point: List[int]) -> None:
-        self.points[tuple(point)]+=1
+        self.freq[tuple(point)]+=1
 
     def count(self, point: List[int]) -> int:
-        px, py = point
+        # get the diagonals
+        x, y = point
         res=0
-        for x, y in self.points.copy():
-            if abs(y-py)!=abs(x-px) or x==px or y==py: continue
-            res+=(self.points[(x,py)]*self.points[(px,y)]*self.points[(x,y)])
+        self.freq[(x, y)]+=1
+        for q1, q2 in self.freq:
+            if q1!=x and q2!=y and abs(x-q1)==abs(y-q2) and (q1, y) in self.freq and (x, q2) in self.freq:
+                res+=(self.freq[(q1, y)]*self.freq[(x, q2)]*self.freq[(q1, q2)])
+        self.freq[(x, y)]-=1
         return res
+
 
 # Your DetectSquares object will be instantiated and called as such:
 # obj = DetectSquares()
