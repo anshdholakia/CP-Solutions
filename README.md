@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/anshdholakia/CP-Solutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/anshdholakia/CP-Solutions/tree/master/0817-design-hashmap) |
+| [0833-bus-routes](https://github.com/anshdholakia/CP-Solutions/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/anshdholakia/CP-Solutions/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/anshdholakia/CP-Solutions/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/anshdholakia/CP-Solutions/tree/master/0860-design-circular-queue) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/anshdholakia/CP-Solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/anshdholakia/CP-Solutions/tree/master/0817-design-hashmap) |
+| [0833-bus-routes](https://github.com/anshdholakia/CP-Solutions/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/anshdholakia/CP-Solutions/tree/master/0835-linked-list-components) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anshdholakia/CP-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/anshdholakia/CP-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anshdholakia/CP-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0833-bus-routes](https://github.com/anshdholakia/CP-Solutions/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/anshdholakia/CP-Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
