@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anshdholakia/CP-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshdholakia/CP-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/anshdholakia/CP-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/anshdholakia/CP-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anshdholakia/CP-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshdholakia/CP-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/anshdholakia/CP-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/anshdholakia/CP-Solutions/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anshdholakia/CP-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshdholakia/CP-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/anshdholakia/CP-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anshdholakia/CP-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anshdholakia/CP-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/anshdholakia/CP-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/anshdholakia/CP-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
