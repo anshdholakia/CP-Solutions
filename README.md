@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 ## String
 |  |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anshdholakia/CP-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anshdholakia/CP-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/anshdholakia/CP-Solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
@@ -1625,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anshdholakia/CP-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
