@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshdholakia/CP-Solutions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anshdholakia/CP-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anshdholakia/CP-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 ## String
 |  |
 | ------- |
@@ -1178,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anshdholakia/CP-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/anshdholakia/CP-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1234,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anshdholakia/CP-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/anshdholakia/CP-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
 ## Binary Search Tree
 |  |
 | ------- |
