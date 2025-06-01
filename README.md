@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
+| [3833-merge-operations-for-minimum-travel-time](https://github.com/anshdholakia/CP-Solutions/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3687-longest-special-path](https://github.com/anshdholakia/CP-Solutions/tree/master/3687-longest-special-path) |
+| [3833-merge-operations-for-minimum-travel-time](https://github.com/anshdholakia/CP-Solutions/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## String
 |  |
 | ------- |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/anshdholakia/CP-Solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshdholakia/CP-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3833-merge-operations-for-minimum-travel-time](https://github.com/anshdholakia/CP-Solutions/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Sliding Window
 |  |
 | ------- |
