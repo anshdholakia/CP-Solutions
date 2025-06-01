@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/anshdholakia/CP-Solutions/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshdholakia/CP-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/anshdholakia/CP-Solutions/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/anshdholakia/CP-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anshdholakia/CP-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/anshdholakia/CP-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anshdholakia/CP-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anshdholakia/CP-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/anshdholakia/CP-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshdholakia/CP-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/anshdholakia/CP-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-minimum-interval-to-include-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/anshdholakia/CP-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anshdholakia/CP-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/anshdholakia/CP-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2165-plates-between-candles](https://github.com/anshdholakia/CP-Solutions/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/anshdholakia/CP-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anshdholakia/CP-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/anshdholakia/CP-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1507,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-first-unique-number](https://github.com/anshdholakia/CP-Solutions/tree/master/1366-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1953-finding-mk-average](https://github.com/anshdholakia/CP-Solutions/tree/master/1953-finding-mk-average) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
@@ -1565,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/anshdholakia/CP-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/anshdholakia/CP-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshdholakia/CP-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/anshdholakia/CP-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/anshdholakia/CP-Solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2868-continuous-subarrays](https://github.com/anshdholakia/CP-Solutions/tree/master/2868-continuous-subarrays) |
