@@ -1252,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/anshdholakia/CP-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anshdholakia/CP-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1300-critical-connections-in-a-network](https://github.com/anshdholakia/CP-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshdholakia/CP-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/anshdholakia/CP-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -1409,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/anshdholakia/CP-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0960-minimize-malware-spread](https://github.com/anshdholakia/CP-Solutions/tree/master/0960-minimize-malware-spread) |
 | [1257-rank-transform-of-a-matrix](https://github.com/anshdholakia/CP-Solutions/tree/master/1257-rank-transform-of-a-matrix) |
+| [1300-critical-connections-in-a-network](https://github.com/anshdholakia/CP-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anshdholakia/CP-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anshdholakia/CP-Solutions/tree/master/1558-course-schedule-iv) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -1667,4 +1669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-minimum-area-rectangle](https://github.com/anshdholakia/CP-Solutions/tree/master/0976-minimum-area-rectangle) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/anshdholakia/CP-Solutions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
