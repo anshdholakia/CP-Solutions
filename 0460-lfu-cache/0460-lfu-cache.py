@@ -1,72 +1,67 @@
-class Node:
-    def __init__(self, key, val):
+class ListNode:
+    def __init__(self, key=None, val=None):
         self.key=key
         self.val=val
-        self.freq=1
-        self.left=None
-        self.right=None
+        self.left, self.right = None, None
 
-class DLL:
+class LRU:
     def __init__(self):
-        self.head, self.tail = Node(-1, -1), Node(-1, -1)
-        self.head.right, self.tail.left = self.tail, self.head
-        self.size=0
-
-    def insert_head(self, node):
-        self.head.right.left, node.right=node, self.head.right
-        self.head.right=node
-        node.left=self.head
-        self.size+=1
-
-    def remove_node(self, node):
+        self.left, self.right = ListNode(), ListNode()
+        self.left.right, self.right.left = self.right, self.left
+    def remove(self, node):
         node.left.right, node.right.left = node.right, node.left
-        self.size-=1
-    
-    def removeTail(self):
-        tail=self.tail.left
-        self.remove_node(tail)
-        return tail
+    def add(self, node):
+        if self.left.right==self.right and self.right.left==self.left:
+            self.left.right, self.right.left = node, node
+            node.left, node.right = self.left, self.right
+        else:
+            self.right.left.right, self.right.left, node.left, node.right = node, node, self.right.left, self.right
+    def empty(self):
+        return self.left.right==self.right and self.right.left==self.left
+    def remove_left(self):
+        ret = self.left.right.key
+        self.remove(self.left.right)
+        return ret
 
 class LFUCache:
 
     def __init__(self, capacity: int):
-        self.cache={}
-        self.freqTable=collections.defaultdict(DLL)
-        self.capacity=capacity
-        self.minFreq=0
+        self.capacity = capacity
+        self.all_nodes={}
+        self.node_to_count={}
+        self.count_to_lru=defaultdict(lambda: LRU())
+        self.min_key=1
 
     def get(self, key: int) -> int:
-        if key not in self.cache:
-            return -1
-        return self.updateCache(self.cache[key], key, self.cache[key].val)
-        
+        if key in self.all_nodes:
+            cur=self.node_to_count[key]
+            self.count_to_lru[cur].remove(self.all_nodes[key])
+            if self.count_to_lru[self.min_key].empty():
+                self.min_key+=1
+            self.node_to_count[key]+=1
+            self.count_to_lru[self.node_to_count[key]].add(self.all_nodes[key])
+            return self.all_nodes[key].val
+        return -1
 
     def put(self, key: int, value: int) -> None:
-        if not self.capacity:
-            return
-        if key in self.cache:
-            self.updateCache(self.cache[key], key, value)
+        if key not in self.all_nodes:
+            if len(self.all_nodes)==self.capacity:
+                # remove node from self.min_key before adding
+                removed=self.count_to_lru[self.min_key].remove_left()
+                del self.all_nodes[removed]
+                del self.node_to_count[removed]
+            self.all_nodes[key]=ListNode(key, value)
+            self.min_key=1
+            self.count_to_lru[1].add(self.all_nodes[key])
+            self.node_to_count[key]=1
         else:
-            if len(self.cache)==self.capacity:
-                # remove the lfu node
-                prevTail=self.freqTable[self.minFreq].removeTail()
-                del self.cache[prevTail.key]
-            node=Node(key, value)
-            self.freqTable[1].insert_head(node)
-            self.cache[key]=node
-            self.minFreq=1
-
-    def updateCache(self, node, key, val):
-        node=self.cache[key]
-        node.val=val
-        prev_freq=node.freq
-        node.freq+=1
-        self.freqTable[prev_freq].remove_node(node)
-        self.freqTable[node.freq].insert_head(node)
-        if prev_freq==self.minFreq and self.freqTable[prev_freq].size==0:
-            self.minFreq+=1
-        return node.val
-        
+            self.all_nodes[key].val=value
+            cur=self.node_to_count[key]
+            self.count_to_lru[cur].remove(self.all_nodes[key])
+            if self.count_to_lru[self.min_key].empty():
+                self.min_key+=1
+            self.count_to_lru[cur+1].add(self.all_nodes[key])
+            self.node_to_count[key]+=1
 
 
 # Your LFUCache object will be instantiated and called as such:
