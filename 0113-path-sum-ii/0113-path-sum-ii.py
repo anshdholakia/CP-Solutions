@@ -6,19 +6,21 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        result = []
-        current = []
-        def backtrack(node, cur_sum):
+        cur=[]
+        res=[]
+        def dfs(node):
             if not node:
                 return
-            if not node.left and not node.right and cur_sum+node.val==targetSum:
-                current.append(node.val)
-                result.append(current.copy())
-                current.pop()
+            if not node.left and not node.right:
+                # this is a leaf node
+                cur.append(node.val)
+                if sum(cur)==targetSum:
+                    res.append(cur.copy())
+                cur.pop()
                 return
-            current.append(node.val)
-            backtrack(node.left, cur_sum+node.val)
-            backtrack(node.right, cur_sum+node.val)
-            current.pop()
-        backtrack(root, 0)
-        return result
+            cur.append(node.val)
+            dfs(node.left)
+            dfs(node.right)
+            cur.pop()
+        dfs(root)
+        return res
