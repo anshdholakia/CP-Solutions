@@ -1,29 +1,21 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        # construct the graph
-        G=defaultdict(dict)
-        for eq, val in zip(equations, values):
-            G[eq[0]][eq[1]]=val
-            G[eq[1]][eq[0]]=1/val
+        G=defaultdict(list)
+        for (u, v), w in zip(equations, values):
+            G[u].append((v, w))
+            G[v].append((u, 1/w))
         visited=set({})
-        def dfs(start, end):
-            if start==end:
-                return 1.0, True
-            visited.add(start)
-            res=-1.0
-            ret=False
-            for n, v in G[start].items():
-                if n not in visited:
-                    mult, rret = dfs(n, end)
-                    if rret:
-                        ret=True
-                        res=max(res, v*mult)
-            visited.remove(start)
-            return res, ret
-        res=[]
-        for q1, q2 in queries:
-            if q1 not in G or q2 not in G:
-                res.append(-1)
-                continue
-            res.append(dfs(q1, q2)[0])
-        return res
+        def dfs(node, end):
+            if node not in G or end not in G:
+                return -1.0
+            if node==end:
+                return 1.0
+            visited.add(node)
+            res=-inf
+            for neighbor, weight in G[node]:
+                if neighbor not in visited:
+                    res=max(res, weight*dfs(neighbor, end))
+            visited.remove(node)
+            return res
+        return [max(-1, dfs(s, e)) for s, e in queries]
+        
