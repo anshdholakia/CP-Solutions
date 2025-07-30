@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/anshdholakia/CP-Solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/anshdholakia/CP-Solutions/tree/master/0299-bulls-and-cows) |
 | [0305-number-of-islands-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0305-number-of-islands-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/anshdholakia/CP-Solutions/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/anshdholakia/CP-Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/anshdholakia/CP-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0269-alien-dictionary](https://github.com/anshdholakia/CP-Solutions/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anshdholakia/CP-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/anshdholakia/CP-Solutions/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anshdholakia/CP-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/anshdholakia/CP-Solutions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/anshdholakia/CP-Solutions/tree/master/0402-remove-k-digits) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/anshdholakia/CP-Solutions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/anshdholakia/CP-Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/anshdholakia/CP-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/anshdholakia/CP-Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/anshdholakia/CP-Solutions/tree/master/0778-reorganize-string) |
